@@ -25,9 +25,9 @@ We evaluate 4 new investment optios for inclusion in the client portfolios. With
 ## Screenshots
 Sample screenshots:
 
-![Screenshot 1](/Module_4_Challenge_4/Resources/Screenshot_1.png)
+![Screenshot 1](https://github.com/eliassantibanez/Module_4_Challenge_4/blob/main/Module%204%20Challenge%20-%20Starter_Code/Resources/Screenshot_1.png)
 
-![Screenshot 2](/Module_4_Challenge_4/Resources/Screenshot_2.png)
+![Screenshot 2](https://github.com/eliassantibanez/Module_4_Challenge_4/blob/main/Module%204%20Challenge%20-%20Starter_Code/Resources/Screenshot_2.png)
 
 
 
